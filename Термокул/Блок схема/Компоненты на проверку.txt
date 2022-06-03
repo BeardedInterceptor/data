@@ -1,0 +1,42 @@
+________________________КОНТРОЛЛЕРЫ____________________________
+
+Производитель____GigaDevice_____ ссылка https://www.gigadevice.com
+GD32F101T4U6
+GD32F101T6U6
+GD32F101T8U6
+GD32F101TBU6
+GD32E230G4U6
+GD32E230G6U6
+GD32E230G8U6
+GD32E232E4U7 
+
+
+Производитель____Holtek_____ ссылка https://www.holtek.com
+HT32F52231_33QFN
+HT32F52241_33QFN
+HT32F52243_33QFN
+HT32F52243_46QFN
+HT32F52253_33QFN
+HT32F52253_46QFN
+
+
+Производитель___CHIPSEA___ ссылка https://www.chipsea.com
+CS32F031K8U6-РА
+CS32F031K8V6-РА
+
+____________________РАСШИРИТЕЛИ ПОРТОВ_________________________
+
+Производитель____Microchip_____
+MCP23008T-E/SS
+MCP23008T-E/SO
+MCP23008T-E/ML
+MCP23008T-E/SSVAO
+
+Производитель____Diodes Incorporated_____
+PI4IOE5V6416ZDEX 
+
+Производитель____NXP USA Inc_____
+PCA9674APW,118
+PCA9674PW,118
+
+
